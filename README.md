@@ -12,13 +12,13 @@
 
 <a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-agregar-amigos"># Implementa una función para agregar amigos</a>
 
-<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-agregar-amigos"># Implementa una función para actualizar la lista de amigos</a>
+<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-actualizar-la-lista-de-amigos"># Implementa una función para actualizar la lista de amigos</a>
 
-<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-agregar-amigos"># Implementa una función para sortear los amigos</a>
+<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-sortear-los-amigos"># Implementa una función para sortear los amigos</a>
 
-<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-agregar-amigos"># Implementa una función para actualizar la lista de amigos</a>
+<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-actualizar-la-lista-de-amigos-1"># Implementa una función para actualizar la lista de amigos</a>
 
-<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#implementa-una-funci%C3%B3n-para-agregar-amigos"># Mejoras pendientes a implementar</a>
+<a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#mejoras-pendientes-a-implementar"># Mejoras pendientes a implementar</a>
 
 <h2>Funcionalidades</h2>
 
