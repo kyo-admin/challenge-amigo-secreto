@@ -79,7 +79,8 @@ function agregarAmigo (){
 
 /*Esta Función Limpia la caja donde el usuario ingresa el nombre del amigo*/
 function limpiarCaja() {
-   document.getElementById('amigo').value = '';          
+    document.getElementById('amigo').value = '';      
+    document.getElementById('resultado').innerHTML = '';//al ingresar un nuevo nombre borra el ganador
 }
 
 
@@ -140,10 +141,11 @@ function sortearAmigo() {
         let indiceAleatorio = Math.floor(Math.random()*amigos.length);
         console.log(`indiceAleatorio: ${indiceAleatorio} ; corresponde a: ${amigos[indiceAleatorio]}` );
         let nombreSeleccionado = document.getElementById('resultado');// Obtenemos el <ul>
-        nombreSeleccionado.innerHTML= `El nombre sorteado es: ${indiceAleatorio} - ${amigos[indiceAleatorio]}`;  // Limpiamos el contenido anterior
+        nombreSeleccionado.innerHTML= `El nombre sorteado es: ${amigos[indiceAleatorio]}`;  // Limpiamos el contenido anterior
     } else {
         alert("debes agregar al menos un nombre a la lista");
     }
     
   
+
 }        
