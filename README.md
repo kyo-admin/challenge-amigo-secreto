@@ -20,6 +20,7 @@
 
 <a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#mejoras-pendientes-a-implementar"># Mejoras pendientes a implementar</a>
 
+<a href="https://github.com/kyo-admin/challenge-amigo-secreto/edit/main/README.md#-adicional---reiniciar-el-juego-"># *** Adicional - reiniciar el juego ***</a>
 <h2>Funcionalidades</h2>
 
 <ul>- Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".</ul>
@@ -89,7 +90,17 @@ Usa
 <ul>- Mostrar el resultado: Actualizar el contenido del elemento de resultado utilizando 
   
   ```document.getElementById()``` e ```innerHTML``` para mostrar el amigo sorteado.</ul>
-<img width="1152" height="246" alt="image" src="https://github.com/user-attachments/assets/7fb99130-c8b8-4f9d-a4e9-82bc25f1e040" />
+<img width="1316" height="342" alt="image" src="https://github.com/user-attachments/assets/2e92e584-4c44-4cc4-afb1-41af0574cd94" />
+
+<h2>*** Adicional - reiniciar el juego ***</h2>
+<p>Permite reiniciar el juego una vez seleccionado el ganador</p>
+<img width="1191" height="216" alt="image" src="https://github.com/user-attachments/assets/45579a49-a1da-4cb5-bcec-1534b1bbfe98" />
+<ul>Se incorpora un botón adicional para ejecutar la función reiniciar juego </ul>
+<img width="865" height="573" alt="image" src="https://github.com/user-attachments/assets/6fdc565f-f4fb-47ec-b25e-759d10ca2e99" />
+<ul> Al sortear la lista de amigos el boton se deshabilita</ul>
+<img width="826" height="565" alt="image" src="https://github.com/user-attachments/assets/faf7a120-d6b8-4186-9ef5-c6606fb68cf9" />
+<ul> Al reiniciar el juego los parametros se restablecen </ul>
+<img width="675" height="489" alt="image" src="https://github.com/user-attachments/assets/3d53cdaa-4b3e-4fd2-bb53-0a5a86b6f9fa" />
 
 <h2>Implementa una función para actualizar la lista de amigos</h2>
 <p>Si bien se aborda todo lo solicitado en este ejercicio no se consideran una serie de elementos que se debería incluir en futuros desarrollos</p>
@@ -97,6 +108,5 @@ Usa
 <ul>- verificar el input sea un nombre con regular expression regex.</ul>
 <ul>- validar un máximo de nombres.</ul>
 <ul>- validar nombres repetidos en el array.</ul>
-<ul>- reiniciar el juego.</ul>
 
 <p>Pueden incorporarse mas observaciones, pero esto es una idea de lo que se puede mejorar</p>
