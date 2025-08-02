@@ -142,10 +142,22 @@ function sortearAmigo() {
         console.log(`indiceAleatorio: ${indiceAleatorio} ; corresponde a: ${amigos[indiceAleatorio]}` );
         let nombreSeleccionado = document.getElementById('resultado');// Obtenemos el <ul>
         nombreSeleccionado.innerHTML= `El nombre sorteado es: ${amigos[indiceAleatorio]}`;  // Limpiamos el contenido anterior
+        document.getElementById('botonSortear').disabled = true;
+
     } else {
         alert("debes agregar al menos un nombre a la lista");
-    }
-    
-  
+    } 
 
 }        
+//****************************************************************************************************************************/
+
+function reiniciarJuego() {
+    amigos = []; // Vacía el array completamente
+    listarAmigos(); // Limpia la lista en el HTML
+    document.getElementById('resultado').innerHTML="";
+    document.getElementById('botonSortear').disabled = false;
+
+}
+
+//****************************************************************************************************************************/
+
