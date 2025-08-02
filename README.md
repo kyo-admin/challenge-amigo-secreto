@@ -20,7 +20,7 @@
 
 <a href="https://github.com/kyo-admin/challenge-amigo-secreto?tab=readme-ov-file#mejoras-pendientes-a-implementar"># Mejoras pendientes a implementar</a>
 
-<a href="https://github.com/kyo-admin/challenge-amigo-secreto/edit/main/README.md#-adicional---reiniciar-el-juego-"># *** Adicional - reiniciar el juego ***</a>
+<a href="https://github.com/kyo-admin/challenge-amigo-secreto/blob/main/README.md#-adicional---reiniciar-el-juego-"># *** Adicional - reiniciar el juego ***</a>
 <h2>Funcionalidades</h2>
 
 <ul>- Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".</ul>
